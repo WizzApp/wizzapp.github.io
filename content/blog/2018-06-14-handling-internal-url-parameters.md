@@ -4,8 +4,7 @@ date: 2018-06-14
 tags: [web development]
 ---
 
-Yesterday I tweeted this<blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">Dear Twitter: IMO changing URL parameters manually is not a use case and I will not go the extra mile in my application to handle those cases. Discuss! ;-)</p>&mdash; Daniel Rosendorf (@drosendorf) <a href="https://twitter.com/drosendorf/status/1006807933185937408?ref_src=twsrc%5Etfw">13. Juni 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Yesterday I tweeted this: {{< tweet 1006807933185937408 >}}
 
 and got some answers and questions from colleagues, so I decided to elaborate a bit.
 
