@@ -1,4 +1,4 @@
-baseurl = "https://daniel-rosendorf.org/"
+baseurl = "https://www.daniel-rosendorf.de"
 title = "Daniel's blog"
 copyright = "Copyright &copy; 2011-2020 - Daniel Rosendorf"
 canonifyurls = true
