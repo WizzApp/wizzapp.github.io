@@ -1,6 +1,6 @@
 baseurl = "https://www.daniel-rosendorf.de"
 title = "Daniel's blog"
-copyright = "Copyright &copy; 2011-2020 - Daniel Rosendorf"
+copyright = "Copyright &copy; 2011-2023 - Daniel Rosendorf"
 canonifyurls = true
 theme = "hugo-kiera"
 
@@ -14,38 +14,38 @@ pygmentsCodeFences = true
 
 # Note: to disable a social network icon delete or comment out the corresponding line
 [author]
-    name = "Daniel Rosendorf"
-    github = "WizzApp"
-    #gitlab = "username"
-    #linkedin = "username"
-    #facebook = "username"
-    twitter = "drosendorf"
-    #instagram = "username"
-    #stackoverflow = "username"
-    #youtube = "user/username" # or channel/channelname
-    #devto = "username"
+name = "Daniel Rosendorf"
+github = "WizzApp"
+#gitlab = "username"
+#linkedin = "username"
+#facebook = "username"
+twitter = "drosendorf"
+#instagram = "username"
+#stackoverflow = "username"
+#youtube = "user/username" # or channel/channelname
+#devto = "username"
 
 [params]
-    tagline = "Musings about software development, coding and other stuff"
-    description = "Daniel's blog: Musings about software development, coding and other stuff"
-    #images = [""] #This is used for opengraph/twitter cards.
-    customCSS = []  #Optional Customised CSS
-    #favicon = ""
-    utterancesRepo = "WizzApp/blog"
-    utterancesIssueTerm = "pathname"
-    #homepageLength = 10
-    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
-    #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
-    #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
-    #google_fonts = ["Staatliches"] # Adds additional google fonts
-    disableDarkModeCSS = true # disables css style for users using dark-mode
+tagline = "Musings about software development, coding and other stuff"
+description = "Daniel's blog: Musings about software development, coding and other stuff"
+#images = [""] #This is used for opengraph/twitter cards.
+customCSS = [] #Optional Customised CSS
+#favicon = ""
+utterancesRepo = "WizzApp/blog"
+utterancesIssueTerm = "pathname"
+#homepageLength = 10
+#commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+#mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+#katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+#google_fonts = ["Staatliches"] # Adds additional google fonts
+disableDarkModeCSS = true # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
 [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 1
+identifier = "tags"
+name = "Tags"
+url = "/tags"
+weight = 1
 
 # uncomment to enable the Categories link on the main toolbar
 #  [[menu.main]]
